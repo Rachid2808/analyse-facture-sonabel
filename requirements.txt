@@ -1,0 +1,7 @@
+streamlit
+pytesseract
+pymupdf
+Pillow
+opencv-python-headless
+pandas
+fpdf
